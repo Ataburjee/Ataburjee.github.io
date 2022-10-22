@@ -14,7 +14,7 @@
 ⚡ Fast and SEO Optimized
 
 To view a demo example, **[Click Here](https://ranajit-das-portfolio.netlify.app/)**\
-To view a live example, **[Click Here](https://github.com/TridipRong/myPortFolio)**\
+To view a live example, **[Click Here](https://github.com/TridipRong/myPortFolio)**
 
 
 ## Technologies used 🛠️
