@@ -1,5 +1,5 @@
 
-<h1 align="center"> ⚡️ Rahaman's ⚡️</h1>
+<h1 align="center"> ⚡️ Atabur's ⚡️</h1>
 
 
 
@@ -14,7 +14,7 @@
 ⚡ Fast and SEO Optimized
 
 To view a demo example, **[Click Here](https://ranajit-das-portfolio.netlify.app/)**\
-To view a live example, **[Click Here](https://github.com/TridipRong/myPortFolio)**
+To view a live example, **[Click Here](https://github.com/TridipRong/myPortFolio)**\
 
 
 ## Technologies used 🛠️
